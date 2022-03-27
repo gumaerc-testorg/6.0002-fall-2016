@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides and Files
 parent_type: CourseSection
+parent_uid: c4d42078-e168-d096-eb09-fadfcff2fabc
 resourcetype: Other
 title: Lecture14.zip
 uid: dacdf4ba-ac09-f4da-3f1a-7c02c3b1238b

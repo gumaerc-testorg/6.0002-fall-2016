@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides and Files
 parent_type: CourseSection
+parent_uid: c4d42078-e168-d096-eb09-fadfcff2fabc
 resourcetype: Other
 title: lect6.py
 uid: d257bb94-44cc-ae31-4ffd-d20dd0244f80

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a838c44e-dc04-ba9e-c064-66dfcfd64e41
 resourcetype: Document
 title: MIT6_0002F16_Style Guide
 uid: 14956042-04e8-f00c-8b1e-423f83395180
