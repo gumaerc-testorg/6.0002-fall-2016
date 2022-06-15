@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes instructions for installing the software needed
+  in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Software
@@ -11,14 +13,14 @@ This course requires the Python programming language, specifically Python 3.5.
 Installation Files
 ------------------
 
-*   [Python Installation Files (ZIP)]({{< baseurl >}}/resources/python-install) (This ZIP file contains: 1 .pdf file and 1 .py file)
+*   {{% resource_link 7f297f64-3301-7c28-0e7a-e981795aba30 "Python Installation Files (ZIP)" %}} (This ZIP file contains: 1 .pdf file and 1 .py file)
 
 Style Guide
 -----------
 
-*   [Style Guide (PDF)]({{< baseurl >}}/resources/mit6_0002f16_styleguide)
+*   {{% resource_link 14956042-04e8-f00c-8b1e-423f83395180 "Style Guide (PDF)" %}}
 
 Additional Python Resources
 ---------------------------
 
-*   [Additional Python Resources (PDF)]({{< baseurl >}}/resources/mit6_0002f16_pythonresurcs)
+*   {{% resource_link fe35c52e-0a1b-481f-9775-846d392e766d "Additional Python Resources (PDF)" %}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/cb500110f0314c02ebb24dfc8d676f42_eg8DJYwdMyg.pdf
+file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/cb500110f0314c02ebb24dfc8d676f42_eg8DJYwdMyg.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section includes lecture notes for the class, including associated
+  files. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,10 +30,10 @@ CODE AND ADDITIONAL FILES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: Introduction and Optimization Problems (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec1)
+{{% resource_link 0a353b26-f1c6-bd16-1b28-b3f249aa05d1 "Lecture 1: Introduction and Optimization Problems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 1 (ZIP)]({{< baseurl >}}/resources/lecture1) (This ZIP file contains: 1 .txt file and 1 .py file)
+{{% resource_link c8b48d32-8131-0e0d-cebc-c590e8e4f564 "Additional Files for Lecture 1 (ZIP)" %}} (This ZIP file contains: 1 .txt file and 1 .py file)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,10 +42,10 @@ CODE AND ADDITIONAL FILES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Optimization Problems (PDF - 6.9MB)]({{< baseurl >}}/resources/mit6_0002f16_lec2)
+{{% resource_link 3edc8db0-4a77-0f3d-a510-86320c8fe4da "Lecture 2: Optimization Problems (PDF - 6.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 2 (ZIP)]({{< baseurl >}}/resources/lecture2) (This ZIP file contains: 1 .txt file and 1 .py file)
+{{% resource_link a196805c-fcdb-e809-6141-a445b17b668d "Additional Files for Lecture 2 (ZIP)" %}} (This ZIP file contains: 1 .txt file and 1 .py file)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,10 +54,10 @@ CODE AND ADDITIONAL FILES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3: Graph-theoretic Models (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec3)
+{{% resource_link 69b5b280-67ec-f176-9a61-43453d77eba1 "Lecture 3: Graph-theoretic Models (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Code File for Lecture 3 (PY)]({{< baseurl >}}/resources/lecturegraphs)
+{{% resource_link 4ca8d422-daea-fd10-a296-c9f2b0df9189 "Code File for Lecture 3 (PY)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,10 +66,10 @@ CODE AND ADDITIONAL FILES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4: Stochastic Thinking (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec4)
+{{% resource_link 5b4ec0ef-2991-0b74-e6a4-bbd5ccf4dda5 "Lecture 4: Stochastic Thinking (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Code File for Lecture 4 (PY)]({{< baseurl >}}/resources/lecture4)
+{{% resource_link db2474b4-8192-b9a6-ccb7-8c2e5bf75ca0 "Code File for Lecture 4 (PY)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +78,10 @@ CODE AND ADDITIONAL FILES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5: Random Walks (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec5)
+{{% resource_link 508a9076-aebf-c7d5-97dd-e836255182c7 "Lecture 5: Random Walks (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Code File for Lecture 5 (PY)]({{< baseurl >}}/resources/lect5)
+{{% resource_link 78161358-5ae5-43f2-6ad6-dc040be4a312 "Code File for Lecture 5 (PY)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,10 +90,10 @@ CODE AND ADDITIONAL FILES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Monte Carlo Simulation (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_0002f16_lec6)
+{{% resource_link 5af20311-b02e-aab9-59fc-db7ffb5694d3 "Lecture 6: Monte Carlo Simulation (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Code File for Lecture 6 (PY)]({{< baseurl >}}/resources/lect6)
+{{% resource_link d257bb94-44cc-ae31-4ffd-d20dd0244f80 "Code File for Lecture 6 (PY)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,10 +102,10 @@ CODE AND ADDITIONAL FILES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: Confidence Intervals (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec7)
+{{% resource_link 3d8b8210-a6f9-19be-2536-9d985b650abf "Lecture 7: Confidence Intervals (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Code File for Lecture 7 (PY)]({{< baseurl >}}/resources/lect7)
+{{% resource_link d79b4abe-3e86-21d9-0d01-9ac02490d5ba "Code File for Lecture 7 (PY)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,10 +114,10 @@ CODE AND ADDITIONAL FILES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: Sampling and Standard Error (PDF - 1.3MB)]({{< baseurl >}}/resources/mit6_0002f16_lec8)
+{{% resource_link 02f2ed5e-44be-5415-b2cb-a8175c924092 "Lecture 8: Sampling and Standard Error (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 8 (ZIP - 1.6MB)]({{< baseurl >}}/resources/lecture8) (This ZIP file contains: 1 .csv file and 1 .py file)
+{{% resource_link dea3ddb7-2abd-2f63-a385-9b92063bf0eb "Additional Files for Lecture 8 (ZIP - 1.6MB)" %}} (This ZIP file contains: 1 .csv file and 1 .py file)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,10 +126,10 @@ CODE AND ADDITIONAL FILES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9: Understanding Experimental Data (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec9)
+{{% resource_link 20a7e184-a1a2-b3c3-4a50-55dc1f1dc066 "Lecture 9: Understanding Experimental Data (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 9 (ZIP)]({{< baseurl >}}/resources/lecture9) (This ZIP file contains: 4 .txt files and 1 .py file)
+{{% resource_link aff537b8-ab26-118a-87a6-e22e4bd0c4c8 "Additional Files for Lecture 9 (ZIP)" %}} (This ZIP file contains: 4 .txt files and 1 .py file)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,10 +138,10 @@ CODE AND ADDITIONAL FILES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10: Understanding Experimental Data (cont.) (PDF - 1.3MB)]({{< baseurl >}}/resources/mit6_0002f16_lec10)
+{{% resource_link aa05d858-7527-00ad-cf73-4b7cdb7a699f "Lecture 10: Understanding Experimental Data (cont.) (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 10 (ZIP - 1.7MB)]({{< baseurl >}}/resources/lecture10) (This ZIP file contains: 1 .csv file, 7 .txt files, and 2 .py files)
+{{% resource_link fbec7c64-c551-7585-53ab-3666af2c9baa "Additional Files for Lecture 10 (ZIP - 1.7MB)" %}} (This ZIP file contains: 1 .csv file, 7 .txt files, and 2 .py files)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,10 +150,10 @@ CODE AND ADDITIONAL FILES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11: Introduction to Machine Learning (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_0002f16_lec11)
+{{% resource_link 4c4fc506-075a-8502-ccc5-191583d22882 "Lecture 11: Introduction to Machine Learning (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Code File for Lecture 11 (PY)]({{< baseurl >}}/resources/lecturecode)
+{{% resource_link cea07031-a5c4-2a3b-bb3d-5f095255f380 "Code File for Lecture 11 (PY)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,10 +162,10 @@ CODE AND ADDITIONAL FILES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12: Clustering (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec12)
+{{% resource_link 367ebcbf-de99-ec18-e14e-87b69f564035 "Lecture 12: Clustering (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 12 (ZIP)]({{< baseurl >}}/resources/lecture12) (This ZIP file contains: 1 .txt file and 2 .py files)
+{{% resource_link 02c65002-d8f6-9f42-e39b-6a53ec010351 "Additional Files for Lecture 12 (ZIP)" %}} (This ZIP file contains: 1 .txt file and 2 .py files)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,10 +174,10 @@ CODE AND ADDITIONAL FILES
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13: Classification (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec13)
+{{% resource_link 19a63b4a-aa3f-d9c7-5cd1-b8e940654f53 "Lecture 13: Classification (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 13 (ZIP)]({{< baseurl >}}/resources/lecture13) (This ZIP file contains: 1 .txt file and 1 .py file)
+{{% resource_link f6c99adc-c562-fc86-761f-a61928ac9710 "Additional Files for Lecture 13 (ZIP)" %}} (This ZIP file contains: 1 .txt file and 1 .py file)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,10 +186,10 @@ CODE AND ADDITIONAL FILES
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14: Classification and Statistical Sins (PDF)]({{< baseurl >}}/resources/mit6_0002f16_lec14)
+{{% resource_link b9d60f4e-cb32-5e46-48f9-cf0379419338 "Lecture 14: Classification and Statistical Sins (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Additional Files for Lecture 14 (ZIP)]({{< baseurl >}}/resources/lecture14) (This ZIP file contains: 1 .txt file and 1 .py file)
+{{% resource_link dacdf4ba-ac09-f4da-3f1a-7c02c3b1238b "Additional Files for Lecture 14 (ZIP)" %}} (This ZIP file contains: 1 .txt file and 1 .py file)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,10 +198,10 @@ CODE AND ADDITIONAL FILES
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15: Statistical Sins and Wrap Up (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_0002f16_lec15)
+{{% resource_link 77d29770-95e1-84f2-2da9-bb75faf39535 "Lecture 15: Statistical Sins and Wrap Up (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Code File for Lecture 15 (PY)]({{< baseurl >}}/resources/lect15)
+{{% resource_link 24ac0bcb-ab36-7448-30c9-59ee3f74d26f "Code File for Lecture 15 (PY)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

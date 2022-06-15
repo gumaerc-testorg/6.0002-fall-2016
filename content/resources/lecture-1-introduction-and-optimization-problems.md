@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Prof. Guttag provides an overview of the course and discusses how we use computational models to understand the world in which we live, in particular he discusses the knapsack problem and greedy algoriths.
 
 **Instructor:** John Guttag
+
+
+
