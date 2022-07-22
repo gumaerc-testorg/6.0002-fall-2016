@@ -6,6 +6,7 @@ file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fa
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: PS5.zip
 uid: f5682c4b-faad-9042-8a6e-9fd82c66b27a
 ---
 This zip folder contains information regarding the problem set 5 modeling global warming. It contains 1 .pdf file, 1 .csv file and 2 .py files.
-

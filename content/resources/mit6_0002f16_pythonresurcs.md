@@ -6,6 +6,7 @@ file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_0002F16_Python Resources
 uid: fe35c52e-0a1b-481f-9775-846d392e766d
 ---
 This resource contains information regarding introduction to computational thinking and data science: Python resources.
-

@@ -6,6 +6,7 @@ file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fa
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: PS3.zip
 uid: ccc304c1-ea4e-e213-b284-6f1ec1fc01f8
 ---
 This zip folder contains information regarding the problem set 3 robot simulation. It contains 1 .pdf file, 4 .pyc files and 4 .py files.
-

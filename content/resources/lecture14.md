@@ -6,6 +6,7 @@ file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fa
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Files
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture14.zip
 uid: dacdf4ba-ac09-f4da-3f1a-7c02c3b1238b
 ---
 This zip folder contains information regarding additional files for lecture 14. It contains 1 .txt file and 1 .py file.
-

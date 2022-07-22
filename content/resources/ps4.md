@@ -6,6 +6,7 @@ file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fa
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: PS4.zip
 uid: f6b48ebb-a57f-c33e-9cb7-e815abf8f407
 ---
 This zip folder contains information regarding the problem set 4 simulating the spread of disease and bacteria population. It contains 1 .pdf file, 2 .py files.
-

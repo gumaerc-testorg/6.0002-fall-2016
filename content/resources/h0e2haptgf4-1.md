@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/c74647368fed9529ffc97b943424233e_h0e2HAPTGF4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

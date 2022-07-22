@@ -5,6 +5,7 @@ file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fa
 file_type: text/python-source
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Files
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect15.py
 uid: 24ac0bcb-ab36-7448-30c9-59ee3f74d26f
 ---
 This file contain the information regarding code file for lecture 15.
-
