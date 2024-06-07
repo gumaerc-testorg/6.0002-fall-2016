@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/b5d7f3595a06e98c9296f98453d9c264_uK5yvoXnkSk.srt
+file_size: 57038
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
