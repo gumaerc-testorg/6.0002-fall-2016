@@ -3,6 +3,7 @@ content_type: resource
 description: This zip folder contains information regarding additional files for lecture
   9. It contains 4 .txt files and 1 .py file.
 file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/aff537b8ab26118a87a6e22e4bd0c4c8_Lecture9.zip
+file_size: 2809
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
