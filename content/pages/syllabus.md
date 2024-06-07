@@ -44,7 +44,7 @@ OCW has additional versions of 6.00 that include useful materials; this course w
 
 ## Textbook
 
-The textbook is ![Buy at MIT Press](/images/mp_logo.gif) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. 2nd ed. MIT Press, 2016. ISBN: 9780262529624. \[Preview with {{% resource_link "7d6b4c14-9de0-432a-889c-e6e75459232a" "Google Books" %}}\] The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book.
+The textbook is ![Buy at MIT Press](/images/mp_logo.gif) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. 2nd ed. MIT Press, 2016. ISBN: 9780262529624. \[Preview with [Google Books](http://books.google.com/books?id=KabKDAAAQBAJ&pg=PAfrontcover)\] The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book.
 
 ## Lecture and Recitation Attendance
 
