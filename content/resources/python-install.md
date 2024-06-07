@@ -3,6 +3,7 @@ content_type: resource
 description: This zip folder contains information regarding python installation. It
   contains 1 .pdf file and 1 .py file.
 file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/7f297f6433017c280e7ae981795aba30_python-install.zip
+file_size: 695675
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
