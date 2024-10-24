@@ -2,7 +2,7 @@
 content_type: resource
 description: This zip folder contains information regarding additional files for lecture
   13. It contains 1 .txt file and 1 .py file.
-file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/f6c99adcc562fc86761fa61928ac9710_Lecture13.zip
+file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/f6c99adcc562fc86761fa61928ac9710_Lecture13.zip
 file_size: 18486
 file_type: application/zip
 learning_resource_types:

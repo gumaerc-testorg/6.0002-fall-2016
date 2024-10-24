@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contain the information regarding code file for lecture 4.
-file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/db2474b48192b9a6ccb78c2e5bf75ca0_lecture4.py
+file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/db2474b48192b9a6ccb78c2e5bf75ca0_lecture4.py
 file_size: 1743
 file_type: text/python-source
 learning_resource_types:
