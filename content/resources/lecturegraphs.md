@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contain the information regarding code file for lecture 3.
-file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/4ca8d422daeafd10a296c9f2b0df9189_lectureGraphs.py
+file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/4ca8d422daeafd10a296c9f2b0df9189_lectureGraphs.py
 file_size: 5631
 file_type: text/python-source
 learning_resource_types:

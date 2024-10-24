@@ -2,7 +2,7 @@
 content_type: resource
 description: This zip folder contains information regarding the problem set 1 space
   cows transportation. It contains 1 .pdf file, 2 .txt files and 3 .py files.
-file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/687c3ee2bee6229f46968d366a92345e_PS1.zip
+file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/687c3ee2bee6229f46968d366a92345e_PS1.zip
 file_size: 215574
 file_type: application/zip
 learning_resource_types:
