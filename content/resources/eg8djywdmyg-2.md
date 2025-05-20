@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/ff9a51abcbf85c0eba0a142bc9e4ec7d_eg8DJYwdMyg.vtt
+file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/ff9a51abcbf85c0eba0a142bc9e4ec7d_eg8DJYwdMyg.vtt
 file_size: 57848
 file_type: application/x-subrip
 learning_resource_types: []
