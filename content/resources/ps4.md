@@ -3,7 +3,7 @@ content_type: resource
 description: This zip folder contains information regarding the problem set 4 simulating
   the spread of disease and bacteria population. It contains 1 .pdf file, 2 .py files.
 draft: false
-file: /courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/f6b48ebba57fc33e9cb7e815abf8f407_PS4.zip
+file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/f6b48ebba57fc33e9cb7e815abf8f407_PS4.zip
 file_size: 742265
 file_type: application/zip
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets
+- Programming Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
@@ -26,6 +26,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''

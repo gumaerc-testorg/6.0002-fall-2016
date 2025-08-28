@@ -1,33 +1,33 @@
 ---
 content_type: resource
-description: This file contains the information regarding the Stochastic Thinking.
+description: This file contain the information regarding code file for lecture 15.
 draft: false
-file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/5b4ec0ef29910b74e6a4bbd5ccf4dda5_MIT6_0002F16_lec4.pdf
-file_size: 851195
-file_type: application/pdf
+file: /ol-ocw-studio-app/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/24ac0bcbab36744830c959ee3f74d26f_lect15.py
+file_size: 1882
+file_type: text/python-source
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Files
 parent_type: CourseSection
 parent_uid: c4d42078-e168-d096-eb09-fadfcff2fabc
-resourcetype: Document
-title: 'Lecture 4: Stochastic Thinking'
-uid: 5b4ec0ef-2991-0b74-e6a4-bbd5ccf4dda5
+resourcetype: Other
+title: lect15.py
+uid: 24ac0bcb-ab36-7448-30c9-59ee3f74d26f
 video_files:
   archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
   youtube_id: ''
 ---
-This file contains the information regarding the Stochastic Thinking.
+This file contain the information regarding code file for lecture 15.
