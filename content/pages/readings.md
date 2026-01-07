@@ -8,7 +8,7 @@ title: Readings
 uid: e2607fdd-b72b-757e-ee93-f0b6bfb8415d
 ---
 
-The textbook is {{% resource_link "4c94c1f9-79ab-491b-820b-639800999f75" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. 2nd ed. MIT Press, 2016. ISBN: 9780262529624. \[Preview with {{% resource_link "d15176af-d987-433c-b786-0c9e6effbce8" "Google Books" %}}\] It is available both in hard copy and as an e-book.
+The textbook is [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. 2nd ed. MIT Press, 2016. ISBN: 9780262529624. \[Preview with [Google Books](http://books.google.com/books?id=KabKDAAAQBAJ&pg=PAfrontcover)\] It is available both in hard copy and as an e-book.
 
 {{< tableopen >}}
 {{< theadopen >}}
